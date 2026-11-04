@@ -30,3 +30,13 @@ Both texts follow Schedule 1 of the [Treaty of Waitangi Act 1975](https://www.le
 ## Fonts
 
 The stylesheet embeds EB Garamond and IM Fell English, both licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** The text of the Treaty as set out in Schedule 1 of New Zealand's Treaty of Waitangi Act 1975. New Zealand's Copyright Act 1994 gives no copyright in Acts of Parliament.
+- **Images:** None.
+- **Fonts:** EB Garamond and IM Fell English, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
